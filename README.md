@@ -23,7 +23,7 @@
 >   &nbsp;&nbsp;  4(d) Exponential Trnasformation <br>
 >   &nbsp;&nbsp;  4(e) Box Cox Transformation <br>
 
-* Comparison 0f Scalers (Original vs Standard Scaler vs MinMax Scaler vs Robust Scaler ):<br><br>
+* Comparison of Scalers (Original vs Standard Scaler vs MinMax Scaler vs Robust Scaler ):<br><br>
  ![scalers](https://user-images.githubusercontent.com/64833579/129831150-196668e7-9e46-4b0f-b0ce-e30740c6656f.png)
  
  As we can see, our original features have wildly different ranges. <br>
