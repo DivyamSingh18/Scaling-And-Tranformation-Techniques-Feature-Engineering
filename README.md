@@ -22,5 +22,5 @@
 >   &nbsp;&nbsp;  4(c) Square Root Transformation <br>
 >   &nbsp;&nbsp;  4(d) Exponential Trnasformation <br>
 >   &nbsp;&nbsp;  4(e) Box Cox Transformation <br>
-<hr>
+<hr;>
  ![scalers](https://user-images.githubusercontent.com/64833579/129831150-196668e7-9e46-4b0f-b0ce-e30740c6656f.png)
