@@ -22,5 +22,11 @@
 >   &nbsp;&nbsp;  4(c) Square Root Transformation <br>
 >   &nbsp;&nbsp;  4(d) Exponential Trnasformation <br>
 >   &nbsp;&nbsp;  4(e) Box Cox Transformation <br>
-<hr;>
+
+* Comparison 0f Scalers (Original vs Standard Scaler vs MinMax Scaler vs Robust Scaler ):<br>
  ![scalers](https://user-images.githubusercontent.com/64833579/129831150-196668e7-9e46-4b0f-b0ce-e30740c6656f.png)
+ As we can see, our original features have wildly different ranges. <br>
+MinMaxScaler has managed to rescale those features so that their values are bounded between 0 and 1. <br>
+StandardScaler and RobustScaler, on the other hand, have rescaled those features so that they are distributed around the mean of 0.
+
+ 
